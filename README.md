@@ -1,4 +1,4 @@
-### Hi there 👋, I"m Szabolcs!
+### Hi there 👋, I’m Szabolcs!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=d3vy&show_icons=true)
 
