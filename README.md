@@ -1,7 +1,7 @@
 **Hi there :wave:, I’m Szabolcs!**
 
 - :telescope: I’m currently working on
-[<img src="https://gazmag.hu/assets/img/logo-long.d7432cd4.svg" alt="GazMag" height="20">](https://gazmag.hu) and
+[<img src="https://gazmag.hu/icon/logo-long.svg" alt="GazMag" height="20">](https://gazmag.hu) and
 [<img src="https://tezis.hu/assets/img/logo-long.svg" alt="GazMag" height="20">](https://tezis.hu)
 - :hammer_and_wrench: I know & use
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
