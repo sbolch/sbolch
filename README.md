@@ -1,8 +1,7 @@
 **Hi there :wave:, I’m Szabolcs!**
 
 - :telescope: I’m currently working on
-[<img src="https://gazmag.hu/icon/logo-long.svg" alt="GazMag" height="20">](https://gazmag.hu) and
-[<img src="https://tezis.hu/assets/img/logo-long.svg" alt="GazMag" height="20">](https://tezis.hu)
+[<img src="https://gazmag.hu/icon/logo-long.svg" alt="GazMag" height="20">](https://gazmag.hu)
 - :hammer_and_wrench: I know & use
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -22,6 +21,7 @@
 - :seedling: I’m currently learning
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Lit](https://img.shields.io/badge/-Lit-5865F2?logo=lit&logoColor=white)
 
 | :desktop_computer: My dev stuff | :money_with_wings: You can support me | :busts_in_silhouette: Social media |
 |:-:|:-:|:-:|
