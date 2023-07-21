@@ -20,6 +20,7 @@
 ![Polymer](https://img.shields.io/badge/-Polymer-FF4470?logo=polymer-project&logoColor=white)
 - :seedling: I’m currently learning
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 ![Lit](https://img.shields.io/badge/-Lit-5865F2?logo=lit&logoColor=white)
 
