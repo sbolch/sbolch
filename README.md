@@ -1,7 +1,6 @@
 **Hi there :wave:, I’m Szabolcs!**
 
-- :telescope: I’m currently working on
-[<img src="https://gazmag.hu/icon/logo-long.svg" alt="GazMag" height="20">](https://gazmag.hu)
+- :telescope: I’m mainly working on my employers' private projects and my repos at the moment
 - :hammer_and_wrench: I know & use
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -9,7 +8,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-C69?logo=sass&logoColor=white)
-![Stylus](https://img.shields.io/badge/-Stylus-333?logo=stylus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
@@ -18,6 +16,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
 ![Polymer](https://img.shields.io/badge/-Polymer-FF4470?logo=polymer-project&logoColor=white)
+![Stylus](https://img.shields.io/badge/-Stylus-333?logo=stylus&logoColor=white)
 - :seedling: I’m currently learning
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
