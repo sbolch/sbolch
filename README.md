@@ -11,6 +11,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![Lit](https://img.shields.io/badge/-Lit-5865F2?logo=lit&logoColor=white)
 - :thought_balloon: I've learnt & used
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
@@ -21,7 +22,6 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Lit](https://img.shields.io/badge/-Lit-5865F2?logo=lit&logoColor=white)
 
 | :desktop_computer: My dev stuff | :money_with_wings: You can support me | :busts_in_silhouette: Social media |
 |:-:|:-:|:-:|
