@@ -24,6 +24,7 @@
 [![Go](https://img.shields.io/badge/-black?logo=go&logoColor=00add8)](https://go.dev)
 [![Laravel](https://img.shields.io/badge/-black?logo=laravel&logoColor=f55247)](https://laravel.com)
 [![Dart](https://img.shields.io/badge/-black?logo=dart&logoColor=0175c2)](https://dart.dev)
+[![WebAssembly](https://img.shields.io/badge/-black?logo=webassembly&logoColor=654ff0)](https://webassembly.org)
 
 | :desktop_computer: My dev stuff | :money_with_wings: You can support me | :busts_in_silhouette: Social media |
 |:-:|:-:|:-:|
