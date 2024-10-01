@@ -1,6 +1,6 @@
 **Hello there :wave:, I’m Szabolcs! [ˈsɒbolt͡ʃ]**
 
-- :telescope: I’m mainly working on my employers' private projects and my repos at the moment
+- :telescope: I’m mainly working on my employers' private projects and my [repos](https://github.com/sbolch?tab=repositories) at the moment
 - :hammer_and_wrench: I know & use
 [![PHP](https://img.shields.io/badge/-black?logo=php&logoColor=777bB4)](https://www.php.net)
 [![JavaScript](https://img.shields.io/badge/-black?logo=javascript&logoColor=f7df1e)](https://developer.mozilla.org/en-US/docs/Web/javascript)
