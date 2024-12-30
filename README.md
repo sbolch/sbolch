@@ -25,6 +25,7 @@
 [![Laravel](https://img.shields.io/badge/-black?logo=laravel&logoColor=f55247)](https://laravel.com)
 [![Dart](https://img.shields.io/badge/-black?logo=dart&logoColor=0175c2)](https://dart.dev)
 [![WebAssembly](https://img.shields.io/badge/-black?logo=webassembly&logoColor=654ff0)](https://webassembly.org)
+[![V](https://img.shields.io/badge/-black?logo=v&logoColor=4a607e)](https://vlang.io)
 
 | :desktop_computer: My dev stuff | :money_with_wings: You can support me | :busts_in_silhouette: You can find me |
 |:-:|:-:|:-:|
