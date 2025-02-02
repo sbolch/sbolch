@@ -1,15 +1,16 @@
 **Hello there :wave:, I’m Szabolcs! [ˈsɒbolt͡ʃ]**
 
 - :telescope: I’m mainly working on my employers' private projects and my [repos](https://github.com/sbolch?tab=repositories) at the moment
-- :hammer_and_wrench: I know & use
+- :magic_wand: I'm best at
 [![PHP](https://img.shields.io/badge/PHP-777bB4?logo=php&logoColor=white)](https://www.php.net)
+[![MySQL](https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&logoColor=white)](https://symfony.com)
+- :hammer_and_wrench: I know & use
 [![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)](https://www.python.org)
 [![JavaScript](https://img.shields.io/badge/JS-f0db4f?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-e34f26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Sass](https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white)](https://sass-lang.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white)](https://www.mysql.com)
-[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony&logoColor=white)](https://symfony.com)
 [![Vue](https://img.shields.io/badge/Vue-4fc08d?logo=vue.js&logoColor=white)](https://vuejs.org)
 [![Lit](https://img.shields.io/badge/Lit-5865f2?logo=lit&logoColor=white)](https://lit.dev)
 - :thought_balloon: I've learnt & used
