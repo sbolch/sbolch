@@ -29,6 +29,7 @@
 [![HTMX](https://img.shields.io/badge/HTMX-3d72d7?logo=htmx&logoColor=white)](https://dart.dev)
 [![Wasm](https://img.shields.io/badge/Wasm-654ff0?logo=webassembly&logoColor=white)](https://webassembly.org)
 [![V](https://img.shields.io/badge/-4a607e?logo=v&logoColor=white)](https://vlang.io)
+[![Crystal](https://img.shields.io/badge/-14151a?logo=crystal&logoColor=white)](https://crystal-lang.org)
 
 | :desktop_computer: My dev stuff | :money_with_wings: You can support me | :busts_in_silhouette: You can find me |
 |:-:|:-:|:-:|
