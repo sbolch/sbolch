@@ -16,7 +16,7 @@
 - :thought_balloon: I've learnt & used
 [![C](https://img.shields.io/badge/-a8b9cc?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-3a75b0)](https://www.java.com)
-[![VB](https://img.shields.io/badge/VB-195f97)](https://learn.microsoft.com/en-us/dotnet/visual-basic)
+[![VB](https://img.shields.io/badge/Visual%20Basic-195f97)](https://learn.microsoft.com/en-us/dotnet/visual-basic)
 [![C#](https://img.shields.io/badge/C%23-512bd4)](https://learn.microsoft.com/en-us/dotnet/csharp)
 [![Android](https://img.shields.io/badge/Android-3ddc84?logo=android&logoColor=white)](https://www.android.com)
 [![jQuery](https://img.shields.io/badge/jQuery-0769ad?logo=jquery&logoColor=white)](https://jquery.com)
