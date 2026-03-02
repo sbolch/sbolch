@@ -23,11 +23,11 @@
 [![Polymer](https://img.shields.io/badge/Polymer-ff4470?logo=polymer-project&logoColor=white)](https://polymer-library.polymer-project.org)
 [![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2f2625?logo=coffeescript&logoColor=white)](https://coffeescript.org)
 [![Stylus](https://img.shields.io/badge/Stylus-6da13f?logo=stylus&logoColor=white)](https://stylus-lang.com)
+[![HTMX](https://img.shields.io/badge/HTMX-3d72d7?logo=htmx&logoColor=white)](https://htmx.org )
 - :seedling: I’m currently learning
 [![Go](https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white)](https://go.dev)
 [![Laravel](https://img.shields.io/badge/Laravel-f55247?logo=laravel&logoColor=white)](https://laravel.com)
 [![Dart](https://img.shields.io/badge/Dart-0175c2?logo=dart&logoColor=white)](https://dart.dev)
-[![HTMX](https://img.shields.io/badge/HTMX-3d72d7?logo=htmx&logoColor=white)](https://dart.dev)
 [![Wasm](https://img.shields.io/badge/Wasm-654ff0?logo=webassembly&logoColor=white)](https://webassembly.org)
 [![V](https://img.shields.io/badge/-4a607e?logo=v&logoColor=white)](https://vlang.io)
 [![Crystal](https://img.shields.io/badge/Crystal-14151a?logo=crystal&logoColor=white)](https://crystal-lang.org)
