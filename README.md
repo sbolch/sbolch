@@ -13,6 +13,7 @@
 [![Sass](https://img.shields.io/badge/Sass-cc6699?logo=sass&logoColor=white)](https://sass-lang.com)
 [![Vue](https://img.shields.io/badge/Vue-4fc08d?logo=vue.js&logoColor=white)](https://vuejs.org)
 [![Lit](https://img.shields.io/badge/Lit-5865f2?logo=lit&logoColor=white)](https://lit.dev)
+[![HTMX](https://img.shields.io/badge/HTMX-3d72d7?logo=htmx&logoColor=white)](https://htmx.org )
 - :thought_balloon: I've learnt & used
 [![C](https://img.shields.io/badge/-a8b9cc?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-3a75b0)](https://www.java.com)
@@ -23,7 +24,6 @@
 [![Polymer](https://img.shields.io/badge/Polymer-ff4470?logo=polymer-project&logoColor=white)](https://polymer-library.polymer-project.org)
 [![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2f2625?logo=coffeescript&logoColor=white)](https://coffeescript.org)
 [![Stylus](https://img.shields.io/badge/Stylus-6da13f?logo=stylus&logoColor=white)](https://stylus-lang.com)
-[![HTMX](https://img.shields.io/badge/HTMX-3d72d7?logo=htmx&logoColor=white)](https://htmx.org )
 - :seedling: I’m currently learning
 [![Go](https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white)](https://go.dev)
 [![Laravel](https://img.shields.io/badge/Laravel-f55247?logo=laravel&logoColor=white)](https://laravel.com)
