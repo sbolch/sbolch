@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$accent: #aaa;
+
+header {
+    border-bottom: thin solid $accent;
+
+    h1 {
+        color: $accent;
+    }
+}
+
+ul li {
+    list-style: none;
+}
+
+th {
+    border-bottom: thin solid $accent;
+}
+
+th, td {
+    &:not(:last-of-type) {
+        border-right: thin solid $accent;
+    }
+}
