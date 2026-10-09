@@ -1,0 +1,134 @@
+[
+  {
+    "path": "README.md",
+    "size": 1891,
+    "sha256": "67c153f96ec8a2044cfdb00b0939c9b936fcda06cf78a56868dc04d92f6096ce",
+    "git_blob_sha": "13ee1c41be15ccd158b6cbd65ed2fbe11edea81f"
+  },
+  {
+    "path": "artwork.png",
+    "size": 1504526,
+    "sha256": "f85e0d94a46de0ba88be15ff54f20bc73801f63ff219d8374a88354ef4da6742",
+    "git_blob_sha": "2e23bbaf280cc9bd027ed574fe580436d41e6f7c"
+  },
+  {
+    "path": "pet.json",
+    "size": 595,
+    "sha256": "f9d108d35c448165ec2aa0851063fb8bf7ed65b8e0fb7d320f750e8087ff47f9",
+    "git_blob_sha": "36bffda9c440c5821993177b46c0c2496b620f57"
+  },
+  {
+    "path": "previews/all-states.gif",
+    "size": 722278,
+    "sha256": "3aa6af0627c52b6704572524d6ede6715def6c57612c9e3bd8265b4142b48259",
+    "git_blob_sha": "02f9a195b8d4be593fe4fe8d7a3ee0bd8aa647bd"
+  },
+  {
+    "path": "previews/all-states.mp4",
+    "size": 147825,
+    "sha256": "dbd7dbb9483cd5e88e035c1a5ec8abb50c57aa2fa4c3bddfe1693b177ce7de2a",
+    "git_blob_sha": "981a62445f07b1754e91cc7d3de175ecadbe4796"
+  },
+  {
+    "path": "previews/failed.gif",
+    "size": 68650,
+    "sha256": "482c3f665a3db0217bdb6e92746664ae0dbd6d4c635513ddc4c9a7326556ed35",
+    "git_blob_sha": "2dbcb29144ea316785a71f923d26ae10f8793245"
+  },
+  {
+    "path": "previews/four-stills.png",
+    "size": 111644,
+    "sha256": "4b0471390ac0ff9753cbbfc20a4a043155c454ccfcc3fe5bcc5b24e41bf166df",
+    "git_blob_sha": "51a515893c3f1d514898dd95e64d48f8ff383f10"
+  },
+  {
+    "path": "previews/idle-jump-idle.gif",
+    "size": 147229,
+    "sha256": "84f7536a78a9173f796c093cf038e3fd6a2a9a588ecb7cb6ae2dafab2b033be3",
+    "git_blob_sha": "d401b1984c370518b06345e092ef7c2d7117fb7a"
+  },
+  {
+    "path": "previews/idle.gif",
+    "size": 50693,
+    "sha256": "b8b3077667560d4604a1d93133f5a37fc1b7d58785d92fb345fbfa2ecce0f769",
+    "git_blob_sha": "55cbd83e56f0428c21e62a70b1b8732bbd1f911d"
+  },
+  {
+    "path": "previews/jumping.gif",
+    "size": 45909,
+    "sha256": "8b743c9dae20b96f9d76eeb001eab8c69283e36143cd14fe890db1073f39852f",
+    "git_blob_sha": "e10151a4100cddc2d62569ad341a8c4d9186c283"
+  },
+  {
+    "path": "previews/look-loop.gif",
+    "size": 184632,
+    "sha256": "5bdaa28bf76a9aef0e91422e09cda433cb28bf5f709de45c38429a2d2a08caee",
+    "git_blob_sha": "86a0d79c0c01a9572368f7faa24995e4ffe90c48"
+  },
+  {
+    "path": "previews/review.gif",
+    "size": 49094,
+    "sha256": "1eec5842b1a043b923582fc2fe6555b8d4ba6e0018b398a7a4d3a27fa5cbdda2",
+    "git_blob_sha": "31a2f8686a0269adfe3f6763c5070aea43aa0a8c"
+  },
+  {
+    "path": "previews/running-left.gif",
+    "size": 68285,
+    "sha256": "369ff61791690d52027e15a35b2e464bfec9cd534e3d495e7d3cbb5d1f3853f5",
+    "git_blob_sha": "8723bb1169dfdd1f7af51225a8bded3e37ebeacf"
+  },
+  {
+    "path": "previews/running-right.gif",
+    "size": 63183,
+    "sha256": "f97d3eb90f10fa6f7fb6b84338f33d7cd88cc7870e9810e72c51ebb3be2f845e",
+    "git_blob_sha": "334f425af02fc60e37810333f095b6aa91352a24"
+  },
+  {
+    "path": "previews/running.gif",
+    "size": 49308,
+    "sha256": "fc11911a62ee942b742f13e6c0fdfff0aff2ae45fe728da620dc6bde4a843d88",
+    "git_blob_sha": "979c7c8d9ecba9b481fd0b68550819a111186599"
+  },
+  {
+    "path": "previews/waiting.gif",
+    "size": 52012,
+    "sha256": "02c201b83dc0dfb0517926cc172c7d9b17d8caeffdd6220831809d9e0b82af5a",
+    "git_blob_sha": "e2d56c5edd718680ae5532d3ba3946bda97f6e10"
+  },
+  {
+    "path": "previews/waving.gif",
+    "size": 35398,
+    "sha256": "29bf6970e7d93f199c6444e0f5e34c5e2b7cfbc87fa17cb33da92ab745ee9334",
+    "git_blob_sha": "1fc316cb278aa84d5136e775741b0520b63ad0f4"
+  },
+  {
+    "path": "spritesheet.png",
+    "size": 2247124,
+    "sha256": "eeac9d7e0d6cc3f8928166fe5ab0c137f93df5e08f404eda01037e47f9879113",
+    "git_blob_sha": "a249f1460034cd5e87d4dfb30fce4b448e177d5f"
+  },
+  {
+    "path": "validation/atlas.json",
+    "size": 18184,
+    "sha256": "642cce833d8fcdcaa8f37b41048ae621c62b1f4828f947f29f39d563f4a93dad",
+    "git_blob_sha": "8b54d34aca6372a292f700159bfba60ed92b771b"
+  },
+  {
+    "path": "validation/blind-validation.json",
+    "size": 5366,
+    "sha256": "b88e697503a5b8e43c6478f3a073cfbedb977f196598cea6af0bb247fa1bb13b",
+    "git_blob_sha": "fc74177c0eb687dcd2f30e11f92a4e9739e4e95c"
+  },
+  {
+    "path": "validation/pet-quality.json",
+    "size": 995,
+    "sha256": "59c23ea32d67be3debafeadda2abd857b66324fd2ec9bc3859da7671c8e0d173",
+    "git_blob_sha": "845bbb7a05b92b3d9cf70540288af7cce3464eb3"
+  },
+  {
+    "path": "validation/pets-preflight.json",
+    "size": 298,
+    "sha256": "2560e1773c21a5dc31f99af61a2e2741db1c5ab5f689637c9e84f11da2d6283a",
+    "git_blob_sha": "8cb60fe9f3d3f54f2edddff26b49f83bdb415316"
+  }
+]

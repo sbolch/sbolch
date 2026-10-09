@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "atlas": "spritesheet.png",
+  "encoded_bytes": 2247124,
+  "sha256": "eeac9d7e0d6cc3f8928166fe5ab0c137f93df5e08f404eda01037e47f9879113",
+  "jump": {
+    "idle_baseline": 199,
+    "jump_baselines": [
+      199,
+      179,
+      153,
+      184,
+      199
+    ],
+    "airborne_lift_pixels": 46,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.5,
+      95.0,
+      95.0,
+      95.0,
+      96.0,
+      95.0,
+      95.0,
+      96.0,
+      96.5,
+      95.5,
+      95.0,
+      94.0,
+      95.5,
+      96.0,
+      96.0,
+      96.0
+    ],
+    "look_widths": [
+      95,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      94,
+      95,
+      95,
+      98,
+      98,
+      97,
+      94,
+      94,
+      94
+    ],
+    "maximum_center_drift_pixels": 2.0,
+    "maximum_width_ratio": 1.0425531914893618
+  },
+  "errors": [],
+  "warnings": [
+    "180 has transparent interior hole rows (y=70, y=71)"
+  ]
+}

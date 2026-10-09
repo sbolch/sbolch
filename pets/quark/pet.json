@@ -1,0 +1,30 @@
+{
+  "id": "pet_6ac8fbc72da881919d3fdef8a29eb427",
+  "name": "Quark",
+  "description": "An alien developer duck inspired by coding, Linux tinkering, anime, sci-fi, tactical games, and fiery chili.",
+  "is_custom": true,
+  "revision": "Glossy violet-black almond alien eyes with cyan highlights",
+  "atlas_sha256": "eeac9d7e0d6cc3f8928166fe5ab0c137f93df5e08f404eda01037e47f9879113",
+  "sprite_version": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "cell_dimensions": [
+    192,
+    208
+  ],
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ]
+}
