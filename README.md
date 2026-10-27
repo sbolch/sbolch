@@ -34,7 +34,7 @@ Iâ€™m a full-stack developer. Most of my day-to-day work goes into my employersâ
 <details>
 <summary>:thought_balloon: Previously used</summary>
 
-[![C](https://img.shields.io/badge/C-a8b9cc?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C](https://img.shields.io/badge/-a8b9cc?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Java](https://img.shields.io/badge/Java-3a75b0)](https://www.java.com)
 [![Visual Basic](https://img.shields.io/badge/Visual%20Basic-195f97)](https://learn.microsoft.com/en-us/dotnet/visual-basic)
 [![C#](https://img.shields.io/badge/C%23-512bd4)](https://learn.microsoft.com/en-us/dotnet/csharp)
@@ -48,20 +48,20 @@ Iâ€™m a full-stack developer. Most of my day-to-day work goes into my employersâ
 
 ## :desktop_computer: My dev stuff
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sbolch)
+[![GitHub](https://img.shields.io/badge/-black?logo=github&logoColor=white)](https://github.com/sbolch)
 [![CodePen](https://img.shields.io/badge/CodePen-black?logo=codepen&logoColor=white)](https://codepen.io/sbolch)
-[![devRant](https://img.shields.io/badge/devRant-f99a66?logo=devrant&logoColor=white)](https://devrant.com/users/arnyek)
-[![CodersRank](https://img.shields.io/badge/CodersRank-67a4ac?logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/sbolch)
-[![Exercism](https://img.shields.io/badge/Exercism-604fcd?logo=exercism&logoColor=white)](https://exercism.org/profiles/sbolch)
+[![devRant](https://img.shields.io/badge/-f99a66?logo=devrant&logoColor=white)](https://devrant.com/users/arnyek)
+[![CodersRank](https://img.shields.io/badge/-67a4ac?logo=codersrank&logoColor=white)](https://profile.codersrank.io/user/sbolch)
+[![Exercism](https://img.shields.io/badge/-604fcd?logo=exercism&logoColor=white)](https://exercism.org/profiles/sbolch)
 
 ## :busts_in_silhouette: You can find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5)](https://www.linkedin.com/in/szabolcs-suranyi)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/1arnyek)
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white)](https://www.facebook.com/1arnyek)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?logo=instagram&logoColor=white)](https://www.instagram.com/1arnyek)
-[![Reddit](https://img.shields.io/badge/Reddit-ff4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/1arnyek)
-[![Steam](https://img.shields.io/badge/Steam-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/1arnyek)
+[![X](https://img.shields.io/badge/-black?logo=x&logoColor=white)](https://x.com/1arnyek)
+[![Facebook](https://img.shields.io/badge/-1877f2?logo=facebook&logoColor=white)](https://www.facebook.com/1arnyek)
+[![Instagram](https://img.shields.io/badge/-e4405f?logo=instagram&logoColor=white)](https://www.instagram.com/1arnyek)
+[![Reddit](https://img.shields.io/badge/-ff4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/1arnyek)
+[![Steam](https://img.shields.io/badge/-black?logo=steam&logoColor=white)](https://steamcommunity.com/id/1arnyek)
 
 ## :money_with_wings: You can support me
 
