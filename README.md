@@ -1,6 +1,6 @@
 **Hello there :wave:, I’m Szabolcs! [ˈsɒbolt͡ʃ]**
 
-I’m a full-stack developer. Most of my day-to-day work goes into my employers’ private projects, alongside my own libraries, tools, and experiments.
+I’m a full-stack developer. Most of my day-to-day work goes into my employers’ private projects, alongside my own [libraries, tools, and experiments](https://github.com/sbolch?tab=repositories).
 
 > :robot: I use AI as a coding assistant here, while doing the development myself. For projects where AI writes the code and I review it, see [@sybolch](https://github.com/sybolch).
 
