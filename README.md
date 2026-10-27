@@ -2,6 +2,8 @@
 
 I’m a full-stack developer. Most of my day-to-day work goes into my employers’ private projects, alongside my own libraries, tools, and experiments.
 
+> :robot: I use AI as a coding assistant here, while doing the development myself. For projects where AI writes the code and I review it, see [@sybolch](https://github.com/sybolch).
+
 ## :magic_wand: My strongest tools
 
 [![PHP](https://img.shields.io/badge/PHP-777bB4?logo=php&logoColor=white)](https://www.php.net)
@@ -84,5 +86,3 @@ Referral links:
 `bc1q2ec0jlyhxe75fkwayy3dkg2khpz7tk9f3yyk2n`
 
 </details>
-
-:robot: I use AI as a coding assistant here, while doing the development myself. For projects where AI writes the code and I review it, see [@sybolch](https://github.com/sybolch).
