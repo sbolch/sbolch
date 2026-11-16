@@ -27,7 +27,7 @@ Iâ€™m a full-stack developer. Most of my day-to-day work goes into my employersâ
 [![Laravel](https://img.shields.io/badge/Laravel-f55247?logo=laravel&logoColor=white)](https://laravel.com)
 [![Dart](https://img.shields.io/badge/Dart-0175c2?logo=dart&logoColor=white)](https://dart.dev)
 [![Wasm](https://img.shields.io/badge/Wasm-654ff0?logo=webassembly&logoColor=white)](https://webassembly.org)
-[![V](https://img.shields.io/badge/V-4a607e?logo=v&logoColor=white)](https://vlang.io)
+[![V](https://img.shields.io/badge/-4a607e?logo=v&logoColor=white)](https://vlang.io)
 [![Crystal](https://img.shields.io/badge/Crystal-14151a?logo=crystal&logoColor=white)](https://crystal-lang.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-699eca?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
